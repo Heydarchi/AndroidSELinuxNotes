@@ -1,2 +1,5 @@
 # AndroidSELinuxNotes
-Some note on Android SELinux
+
+This repo includes some topics on Android SELinux 
+
+### [Android Security Model](AndroidSecurityModel.md)
